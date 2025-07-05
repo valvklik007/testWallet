@@ -4,7 +4,7 @@ REST API-сервис для управления балансом кошель�
 
 ## 📌 Стек
 
-- [x] 🐍 Python 3.11  
+- [x] 🐍 Python 3.8  
 - [x] ⚡ FastAPI  
 - [x] 🐘 PostgreSQL  
 - [x] 🔄 Alembic (миграции)  
